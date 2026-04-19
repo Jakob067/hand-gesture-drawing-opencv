@@ -16,3 +16,12 @@ OpenCV (Bildverarbeitung)
 TensorFlow / PyTorch (falls ML verwendet wird)
 NumPy
 MediaPipe
+
+🕹️ **Steuerung & Gesten**
+
+- **Zeichnen:** Zeigefinger ausstrecken.
+- **Radieren:** Alle Finger ausstrecken (offene Handfläche). Der Radierer orientiert sich an der Mitte der Handfläche und deren Größe.
+- **Farbe wechseln:** Nur den kleinen Finger ausstrecken.
+- **Strichdicke ändern:** Mit dem hochgestreckten Zeigefinger über den virtuellen Slider am _linken_ Bildschirmrand fahren und auf/ab wischen.
+- **Leinwand löschen:** Taste `c` drücken.
+- **Beenden:** Taste `q` drücken.
